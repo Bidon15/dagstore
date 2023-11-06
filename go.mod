@@ -1,4 +1,4 @@
-module github.com/celestiaorg/dagstore
+module github.com/Bidon15/dagstore
 
 go 1.16
 
